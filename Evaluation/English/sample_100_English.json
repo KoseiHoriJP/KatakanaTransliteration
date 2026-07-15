@@ -1,0 +1,2621 @@
+[
+    {
+        "name": "Craig",
+        "language": "English",
+        "ipa_original": "/ˈkɹeɪɡ/",
+        "pronunciation_original": "KRAYG",
+        "analysis": {
+            "ipa_array_raw": [
+                "kɹeɪɡ"
+            ],
+            "pron_array_raw": [
+                "KRAYG"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "クレイグー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "クレイグー",
+            "hybrid_standard": "クレイグ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Tia",
+        "language": "English",
+        "ipa_original": "/ˈti.ə/",
+        "pronunciation_original": "TEE-ə",
+        "analysis": {
+            "ipa_array_raw": [
+                "ti",
+                "ə"
+            ],
+            "pron_array_raw": [
+                "TEE",
+                "ə"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ティー",
+                "ア"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ティーア",
+            "hybrid_standard": "チア"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Chozen",
+        "language": "British English",
+        "ipa_original": "/ˈt͡ʃəʊ.zən/",
+        "pronunciation_original": "CHO-zən",
+        "analysis": {
+            "ipa_array_raw": [
+                "t͡ʃəʊ",
+                "zən"
+            ],
+            "pron_array_raw": [
+                "CHO",
+                "zən"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "チャウー",
+                "ズアン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "チャウーズアン",
+            "hybrid_standard": "チョーゼン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Fleurette",
+        "language": "French",
+        "ipa_original": "/flœ.ʁɛt/",
+        "pronunciation_original": "FLUU-REHT",
+        "analysis": {
+            "ipa_array_raw": [
+                "flœ",
+                "ʁɛt"
+            ],
+            "pron_array_raw": [
+                "FLUU",
+                "REHT"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "フルウー",
+                "ルエトー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "フルウールエトー",
+            "hybrid_standard": "フルエレット"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Joby",
+        "language": "English",
+        "ipa_original": "/ˈd͡ʒoʊ.bi/",
+        "pronunciation_original": "JO-bee",
+        "analysis": {
+            "ipa_array_raw": [
+                "d͡ʒoʊ",
+                "bi"
+            ],
+            "pron_array_raw": [
+                "JO",
+                "bee"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ジョウー",
+                "ビ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ジョウービ",
+            "hybrid_standard": "ジョビー"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Malani",
+        "language": "English",
+        "ipa_original": "/mə.ˈlɑ.ni/",
+        "pronunciation_original": "mə-LAH-nee",
+        "analysis": {
+            "ipa_array_raw": [
+                "mə",
+                "lɑ",
+                "ni"
+            ],
+            "pron_array_raw": [
+                "mə",
+                "LAH",
+                "nee"
+            ],
+            "stress_position": 1,
+            "hybrid_array": [
+                "マ",
+                "ラー",
+                "ニ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "マラーニ",
+            "hybrid_standard": "マラニ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Coralie",
+        "language": "French",
+        "ipa_original": "/kɔ.ʁa.li/",
+        "pronunciation_original": "KAW-RAH-LEE",
+        "analysis": {
+            "ipa_array_raw": [
+                "kɔ",
+                "ʁa",
+                "li"
+            ],
+            "pron_array_raw": [
+                "KAW",
+                "RAH",
+                "LEE"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "コー",
+                "ルアー",
+                "リー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "コールアーリー",
+            "hybrid_standard": "コーラリー"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Mars",
+        "language": "British English",
+        "ipa_original": "/ˈmɑːz/",
+        "pronunciation_original": "MAHZ",
+        "analysis": {
+            "ipa_array_raw": [
+                "mɑːz"
+            ],
+            "pron_array_raw": [
+                "MAHZ"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "マーズー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "マーズー",
+            "hybrid_standard": "マルス"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Melanie",
+        "language": "English",
+        "ipa_original": "/ˈmɛl.ə.ni/",
+        "pronunciation_original": "MEHL-ə-nee",
+        "analysis": {
+            "ipa_array_raw": [
+                "mɛl",
+                "ə",
+                "ni"
+            ],
+            "pron_array_raw": [
+                "MEHL",
+                "ə",
+                "nee"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "メルー",
+                "ア",
+                "ニ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "メルーアニ",
+            "hybrid_standard": "メルアニー"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Darleen",
+        "language": "American English",
+        "ipa_original": "/dɑɹ.ˈlin/",
+        "pronunciation_original": "dahr-LEEN",
+        "analysis": {
+            "ipa_array_raw": [
+                "dɑɹ",
+                "lin"
+            ],
+            "pron_array_raw": [
+                "dahr",
+                "LEEN"
+            ],
+            "stress_position": 1,
+            "hybrid_array": [
+                "ダル",
+                "リン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ダルリン",
+            "hybrid_standard": "ダーレン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Merfyn",
+        "language": "English",
+        "ipa_original": "/ˈmɛr.vɪn/",
+        "pronunciation_original": "MEHR-vin",
+        "analysis": {
+            "ipa_array_raw": [
+                "mɛr",
+                "vɪn"
+            ],
+            "pron_array_raw": [
+                "MEHR",
+                "vin"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "メルー",
+                "ヴイン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "メルーヴイン",
+            "hybrid_standard": "メルフン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Vale11re",
+        "language": "French",
+        "ipa_original": "/va.lɛʁ/",
+        "pronunciation_original": "VAH-LEHR",
+        "analysis": {
+            "ipa_array_raw": [
+                "va",
+                "lɛʁ"
+            ],
+            "pron_array_raw": [
+                "VAH",
+                "LEHR"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ヴアー",
+                "レルー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ヴアーレルー",
+            "hybrid_standard": "バレール"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Geneviève",
+        "language": "English",
+        "ipa_original": "/ʒən.vjɛv/",
+        "pronunciation_original": "ZHU-NU-VYEHV",
+        "analysis": {
+            "ipa_array_raw": [
+                "ʒən",
+                "vjɛv"
+            ],
+            "pron_array_raw": [
+                "ZHU",
+                "NU",
+                "VYEHV"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ーシャン",
+                "ヴヤエヴ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ーシャンヴヤエヴ",
+            "hybrid_standard": "ジュヌヴィエフ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Yves",
+        "language": "English",
+        "ipa_original": "/iv/",
+        "pronunciation_original": "EEV",
+        "analysis": {
+            "ipa_array_raw": [
+                "iv"
+            ],
+            "pron_array_raw": [
+                "EEV"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "イヴー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "イヴー",
+            "hybrid_standard": "イヴェ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Bodhi",
+        "language": "English",
+        "ipa_original": "/ˈboʊ.di/",
+        "pronunciation_original": "BO-dee",
+        "analysis": {
+            "ipa_array_raw": [
+                "boʊ",
+                "di"
+            ],
+            "pron_array_raw": [
+                "BO",
+                "dee"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ボウー",
+                "ディ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ボウーディ",
+            "hybrid_standard": "ボウジ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Joséphine",
+        "language": "English",
+        "ipa_original": "/ʒo.ze.fin/",
+        "pronunciation_original": "ZHO-ZEH-FEEN",
+        "analysis": {
+            "ipa_array_raw": [
+                "ʒo",
+                "ze",
+                "fin"
+            ],
+            "pron_array_raw": [
+                "ZHO",
+                "ZEH",
+                "FEEN"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ジオー",
+                "ゼー",
+                "フイン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ジオーゼーフイン",
+            "hybrid_standard": "ジョゼフィーヌ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Françoise",
+        "language": "French",
+        "ipa_original": "/fʁɑ̃.swaz/",
+        "pronunciation_original": "FRAHN-SWAHZ",
+        "analysis": {
+            "ipa_array_raw": [
+                "fʁɑ̃",
+                "swaz"
+            ],
+            "pron_array_raw": [
+                "FRAHN",
+                "SWAHZ"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "フルアン",
+                "スウアズー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "フルアンスウアズー",
+            "hybrid_standard": "フランソワーズ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Andrée",
+        "language": "French",
+        "ipa_original": "/ɑ̃.dʁe/",
+        "pronunciation_original": "AHN-DREH",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɑ̃",
+                "dʁe"
+            ],
+            "pron_array_raw": [
+                "AHN",
+                "DREH"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "アン",
+                "ドルエー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "アンドルエー",
+            "hybrid_standard": "アンドレ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Grier",
+        "language": "British English",
+        "ipa_original": "/ˈɡɹɪə/",
+        "pronunciation_original": "GREEY",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɡɹɪə"
+            ],
+            "pron_array_raw": [
+                "GREEY"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "グリエー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "グリエー",
+            "hybrid_standard": "グライア"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Giorgi",
+        "language": "French",
+        "ipa_original": "/ɡi.ɔr.ɡi/",
+        "pronunciation_original": "GEE-AWR-GEE",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɡi",
+                "ɔr",
+                "ɡi"
+            ],
+            "pron_array_raw": [
+                "GEE",
+                "AWR",
+                "GEE"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "グイー",
+                "オルー",
+                "グイー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "グイーオルーグイー",
+            "hybrid_standard": "ギオルギ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Pépin",
+        "language": "French",
+        "ipa_original": "/pe.pɛ̃/",
+        "pronunciation_original": "PEH-PEHN",
+        "analysis": {
+            "ipa_array_raw": [
+                "pe",
+                "pɛ̃"
+            ],
+            "pron_array_raw": [
+                "PEH",
+                "PEHN"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ペー",
+                "ペン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ペーペン",
+            "hybrid_standard": "ペピン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Jacqueline",
+        "language": "English",
+        "ipa_original": "/ˈd͡ʒæk.ə.lɪn/",
+        "pronunciation_original": "JAK-ə-lin",
+        "analysis": {
+            "ipa_array_raw": [
+                "d͡ʒæk",
+                "ə",
+                "lɪn"
+            ],
+            "pron_array_raw": [
+                "JAK",
+                "ə",
+                "lin"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ジャクー",
+                "ア",
+                "リン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ジャクーアリン",
+            "hybrid_standard": "ジャクリーン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Brittany",
+        "language": "English",
+        "ipa_original": "/ˈbɹɪt.ə.ni/",
+        "pronunciation_original": "BRIT-ə-nee",
+        "analysis": {
+            "ipa_array_raw": [
+                "bɹɪt",
+                "ə",
+                "ni"
+            ],
+            "pron_array_raw": [
+                "BRIT",
+                "ə",
+                "nee"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ブリトー",
+                "ア",
+                "ニ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ブリトーアニ",
+            "hybrid_standard": "ブリタニー"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Colombe",
+        "language": "French",
+        "ipa_original": "/kɔ.lɔ̃b/",
+        "pronunciation_original": "KAW-LAWNB",
+        "analysis": {
+            "ipa_array_raw": [
+                "kɔ",
+                "lɔ̃b"
+            ],
+            "pron_array_raw": [
+                "KAW",
+                "LAWNB"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "コー",
+                "ロンブー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "コーロンブー",
+            "hybrid_standard": "コロンベ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Helena",
+        "language": "English",
+        "ipa_original": "/hə.ˈleɪn.ə/",
+        "pronunciation_original": "hə-LAYN-ə",
+        "analysis": {
+            "ipa_array_raw": [
+                "hə",
+                "leɪn",
+                "ə"
+            ],
+            "pron_array_raw": [
+                "hə",
+                "LAYN",
+                "ə"
+            ],
+            "stress_position": 1,
+            "hybrid_array": [
+                "ハア",
+                "レイン",
+                "ア"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ハアレインア",
+            "hybrid_standard": "ヘレナ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Marge",
+        "language": "British English",
+        "ipa_original": "/ˈmɑːd͡ʒ/",
+        "pronunciation_original": "MAHJ",
+        "analysis": {
+            "ipa_array_raw": [
+                "mɑːd͡ʒ"
+            ],
+            "pron_array_raw": [
+                "MAHJ"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "マージー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "マージー",
+            "hybrid_standard": "マージ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Janel",
+        "language": "English",
+        "ipa_original": "/d͡ʒə.ˈnɛl/",
+        "pronunciation_original": "jə-NEHL",
+        "analysis": {
+            "ipa_array_raw": [
+                "d͡ʒə",
+                "nɛl"
+            ],
+            "pron_array_raw": [
+                "jə",
+                "NEHL"
+            ],
+            "stress_position": 1,
+            "hybrid_array": [
+                "ジア",
+                "ネルー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ジアネルー",
+            "hybrid_standard": "ジャネル"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Sharleen",
+        "language": "British English",
+        "ipa_original": "/ʃɑː.ˈliːn/",
+        "pronunciation_original": "shah-LEEN",
+        "analysis": {
+            "ipa_array_raw": [
+                "ʃɑː",
+                "liːn"
+            ],
+            "pron_array_raw": [
+                "shah",
+                "LEEN"
+            ],
+            "stress_position": 1,
+            "hybrid_array": [
+                "シャー",
+                "リーン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "シャーリーン",
+            "hybrid_standard": "シャーレン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Savannah",
+        "language": "English",
+        "ipa_original": "/sə.ˈvæn.ə/",
+        "pronunciation_original": "sə-VAN-ə",
+        "analysis": {
+            "ipa_array_raw": [
+                "sə",
+                "væn",
+                "ə"
+            ],
+            "pron_array_raw": [
+                "sə",
+                "VAN",
+                "ə"
+            ],
+            "stress_position": 1,
+            "hybrid_array": [
+                "サ",
+                "ヴアン",
+                "ア"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "サヴアンア",
+            "hybrid_standard": "サバンナ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Annis",
+        "language": "English",
+        "ipa_original": "/ˈæn.ɪs/",
+        "pronunciation_original": "AN-is",
+        "analysis": {
+            "ipa_array_raw": [
+                "æn",
+                "ɪs"
+            ],
+            "pron_array_raw": [
+                "AN",
+                "is"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "アン",
+                "イス"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "アンイス",
+            "hybrid_standard": "アニス"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Leeann",
+        "language": "English",
+        "ipa_original": "/li.ˈæn/",
+        "pronunciation_original": "lee-AN",
+        "analysis": {
+            "ipa_array_raw": [
+                "li",
+                "æn"
+            ],
+            "pron_array_raw": [
+                "lee",
+                "AN"
+            ],
+            "stress_position": 1,
+            "hybrid_array": [
+                "リ",
+                "アン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "リアン",
+            "hybrid_standard": "リーアン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Zeph",
+        "language": "English",
+        "ipa_original": "/ˈzɛf/",
+        "pronunciation_original": "ZEHF",
+        "analysis": {
+            "ipa_array_raw": [
+                "zɛf"
+            ],
+            "pron_array_raw": [
+                "ZEHF"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ゼフー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ゼフー",
+            "hybrid_standard": "ゼフ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Lianne",
+        "language": "English",
+        "ipa_original": "/li.ˈæn/",
+        "pronunciation_original": "lee-AN",
+        "analysis": {
+            "ipa_array_raw": [
+                "li",
+                "æn"
+            ],
+            "pron_array_raw": [
+                "lee",
+                "AN"
+            ],
+            "stress_position": 1,
+            "hybrid_array": [
+                "リ",
+                "アン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "リアン",
+            "hybrid_standard": "リアーン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Beckett",
+        "language": "English",
+        "ipa_original": "/ˈbɛk.ɪt/",
+        "pronunciation_original": "BEHK-it",
+        "analysis": {
+            "ipa_array_raw": [
+                "bɛk",
+                "ɪt"
+            ],
+            "pron_array_raw": [
+                "BEHK",
+                "it"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ベクー",
+                "イト"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ベクーイト",
+            "hybrid_standard": "ベッケット"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Romulus",
+        "language": "British English",
+        "ipa_original": "/ˈɹɒm.jʊ.ləs/",
+        "pronunciation_original": "RAWM-yuw-ləs",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɹɒm",
+                "jʊ",
+                "ləs"
+            ],
+            "pron_array_raw": [
+                "RAWM",
+                "yuw",
+                "ləs"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ルムー",
+                "ユ",
+                "ルアス"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ルムーユルアス",
+            "hybrid_standard": "ローミュルス"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Kole",
+        "language": "English",
+        "ipa_original": "/ˈkoʊl/",
+        "pronunciation_original": "KOL",
+        "analysis": {
+            "ipa_array_raw": [
+                "koʊl"
+            ],
+            "pron_array_raw": [
+                "KOL"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "コウルー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "コウルー",
+            "hybrid_standard": "コレ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Olivia",
+        "language": "French",
+        "ipa_original": "/ɔ.li.vja/",
+        "pronunciation_original": "AW-LEE-VYAH",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɔ",
+                "li",
+                "vja"
+            ],
+            "pron_array_raw": [
+                "AW",
+                "LEE",
+                "VYAH"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "オー",
+                "リー",
+                "ヴヤアー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "オーリーヴヤアー",
+            "hybrid_standard": "オーリビア"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Nichole",
+        "language": "English",
+        "ipa_original": "/nɪ.ˈkoʊl/",
+        "pronunciation_original": "ni-KOL",
+        "analysis": {
+            "ipa_array_raw": [
+                "nɪ",
+                "koʊl"
+            ],
+            "pron_array_raw": [
+                "ni",
+                "KOL"
+            ],
+            "stress_position": 1,
+            "hybrid_array": [
+                "ニ",
+                "コウルー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ニコウルー",
+            "hybrid_standard": "ニコル"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Candi",
+        "language": "English",
+        "ipa_original": "/ˈkæn.di/",
+        "pronunciation_original": "KAN-dee",
+        "analysis": {
+            "ipa_array_raw": [
+                "kæn",
+                "di"
+            ],
+            "pron_array_raw": [
+                "KAN",
+                "dee"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "カン",
+                "ディ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "カンディ",
+            "hybrid_standard": "カンディ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Arn",
+        "language": "British English",
+        "ipa_original": "/ˈɑːn/",
+        "pronunciation_original": "AHN",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɑːn"
+            ],
+            "pron_array_raw": [
+                "AHN"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "アーン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "アーン",
+            "hybrid_standard": "アーン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Angeline",
+        "language": "French",
+        "ipa_original": "/ɑ̃.ʒə.lin/",
+        "pronunciation_original": "AHN-ZHU-LEEN",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɑ̃",
+                "ʒə",
+                "lin"
+            ],
+            "pron_array_raw": [
+                "AHN",
+                "ZHU",
+                "LEEN"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "アン",
+                "ジウー",
+                "リン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "アンジウーリン",
+            "hybrid_standard": "アンジェリーヌ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Zander",
+        "language": "American English",
+        "ipa_original": "/ˈzæn.dəɹ/",
+        "pronunciation_original": "ZAN-dər",
+        "analysis": {
+            "ipa_array_raw": [
+                "zæn",
+                "dəɹ"
+            ],
+            "pron_array_raw": [
+                "ZAN",
+                "dər"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ザン",
+                "ドー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ザンドー",
+            "hybrid_standard": "ザンダー"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Ruaidhrí",
+        "language": "English",
+        "ipa_original": "/ˈɾˠuə.ɾʲiː/",
+        "pronunciation_original": "RWU-ryee",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɾˠuə",
+                "ɾʲiː"
+            ],
+            "pron_array_raw": [
+                "RWU",
+                "ryee"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ウウー",
+                "ャイー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ウウーャイー",
+            "hybrid_standard": "ルアイドリー"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Romayne",
+        "language": "English",
+        "ipa_original": "/ɹoʊ.ˈmeɪn/",
+        "pronunciation_original": "ro-MAYN",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɹoʊ",
+                "meɪn"
+            ],
+            "pron_array_raw": [
+                "ro",
+                "MAYN"
+            ],
+            "stress_position": 1,
+            "hybrid_array": [
+                "ロ",
+                "メイン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ロメイン",
+            "hybrid_standard": "ロマイン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Mildred",
+        "language": "English",
+        "ipa_original": "/ˈmɪl.dɹɪd/",
+        "pronunciation_original": "MIL-drid",
+        "analysis": {
+            "ipa_array_raw": [
+                "mɪl",
+                "dɹɪd"
+            ],
+            "pron_array_raw": [
+                "MIL",
+                "drid"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ミルー",
+                "ドリド"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ミルードリド",
+            "hybrid_standard": "ミルデルド"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Charity",
+        "language": "English",
+        "ipa_original": "/ˈt͡ʃæɹ.ə.ti/",
+        "pronunciation_original": "CHEHR-ə-tee",
+        "analysis": {
+            "ipa_array_raw": [
+                "t͡ʃæɹ",
+                "ə",
+                "ti"
+            ],
+            "pron_array_raw": [
+                "CHEHR",
+                "ə",
+                "tee"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "チャルー",
+                "ア",
+                "ティ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "チャルーアティ",
+            "hybrid_standard": "チャリティ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Tawny",
+        "language": "English",
+        "ipa_original": "/ˈtɔː.ni/",
+        "pronunciation_original": "TAW-nee",
+        "analysis": {
+            "ipa_array_raw": [
+                "tɔː",
+                "ni"
+            ],
+            "pron_array_raw": [
+                "TAW",
+                "nee"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "トー",
+                "ニ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "トーニ",
+            "hybrid_standard": "タウンイ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Omar",
+        "language": "British English",
+        "ipa_original": "/ˈəʊ.mɑː/",
+        "pronunciation_original": "O-mah",
+        "analysis": {
+            "ipa_array_raw": [
+                "əʊ",
+                "mɑː"
+            ],
+            "pron_array_raw": [
+                "O",
+                "mah"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "オウ",
+                "マー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "オウマー",
+            "hybrid_standard": "オマル"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Cinda",
+        "language": "English",
+        "ipa_original": "/ˈsɪn.də/",
+        "pronunciation_original": "SIN-də",
+        "analysis": {
+            "ipa_array_raw": [
+                "sɪn",
+                "də"
+            ],
+            "pron_array_raw": [
+                "SIN",
+                "də"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "シン",
+                "ドア"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "シンドア",
+            "hybrid_standard": "シンダ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Reggie",
+        "language": "English",
+        "ipa_original": "/ˈɹɛd͡ʒ.i/",
+        "pronunciation_original": "REHJ-ee",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɹɛd͡ʒ",
+                "i"
+            ],
+            "pron_array_raw": [
+                "REHJ",
+                "ee"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "レジー",
+                "イ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "レジーイ",
+            "hybrid_standard": "レジィ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Libbie",
+        "language": "English",
+        "ipa_original": "/ˈlɪb.i/",
+        "pronunciation_original": "LIB-ee",
+        "analysis": {
+            "ipa_array_raw": [
+                "lɪb",
+                "i"
+            ],
+            "pron_array_raw": [
+                "LIB",
+                "ee"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "リブー",
+                "イ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "リブーイ",
+            "hybrid_standard": "リービー"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Tom",
+        "language": "American English",
+        "ipa_original": "/ˈtɑm/",
+        "pronunciation_original": "TAHM",
+        "analysis": {
+            "ipa_array_raw": [
+                "tɑm"
+            ],
+            "pron_array_raw": [
+                "TAHM"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "タムー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "タムー",
+            "hybrid_standard": "トム"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Brock",
+        "language": "British English",
+        "ipa_original": "/ˈbɹɒk/",
+        "pronunciation_original": "BRAWK",
+        "analysis": {
+            "ipa_array_raw": [
+                "bɹɒk"
+            ],
+            "pron_array_raw": [
+                "BRAWK"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ブルクー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ブルクー",
+            "hybrid_standard": "ボロック"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Axl",
+        "language": "English",
+        "ipa_original": "/ˈæk.səl/",
+        "pronunciation_original": "AK-səl",
+        "analysis": {
+            "ipa_array_raw": [
+                "æk",
+                "səl"
+            ],
+            "pron_array_raw": [
+                "AK",
+                "səl"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "アクー",
+                "サル"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "アクーサル",
+            "hybrid_standard": "アクスル"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Lucrèce",
+        "language": "French",
+        "ipa_original": "/ly.kʁɛs/",
+        "pronunciation_original": "LUY-KREHS",
+        "analysis": {
+            "ipa_array_raw": [
+                "ly",
+                "kʁɛs"
+            ],
+            "pron_array_raw": [
+                "LUY",
+                "KREHS"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ルユー",
+                "クルエスー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ルユークルエスー",
+            "hybrid_standard": "ルクレース"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Trevelyan",
+        "language": "English",
+        "ipa_original": "/tɹɪ.ˈvɛl.jən/",
+        "pronunciation_original": "tri-VEHL-yən",
+        "analysis": {
+            "ipa_array_raw": [
+                "tɹɪ",
+                "vɛl",
+                "jən"
+            ],
+            "pron_array_raw": [
+                "tri",
+                "VEHL",
+                "yən"
+            ],
+            "stress_position": 1,
+            "hybrid_array": [
+                "トリ",
+                "ヴエルー",
+                "ヤアン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "トリヴエルーヤアン",
+            "hybrid_standard": "トレベリアン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Theodosia",
+        "language": "English",
+        "ipa_original": "/ˌθi.ə.ˈdoʊ.ʃə/",
+        "pronunciation_original": "thee-ə-DO-shə",
+        "analysis": {
+            "ipa_array_raw": [
+                "θi",
+                "ə",
+                "doʊ",
+                "ʃə"
+            ],
+            "pron_array_raw": [
+                "thee",
+                "ə",
+                "DO",
+                "shə"
+            ],
+            "stress_position": 2,
+            "hybrid_array": [
+                "スイ",
+                "ア",
+                "ドウー",
+                "シア"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "スイアドウーシア",
+            "hybrid_standard": "テオドシア"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Lazare",
+        "language": "French",
+        "ipa_original": "/la.zaʁ/",
+        "pronunciation_original": "LAH-ZAHR",
+        "analysis": {
+            "ipa_array_raw": [
+                "la",
+                "zaʁ"
+            ],
+            "pron_array_raw": [
+                "LAH",
+                "ZAHR"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ラー",
+                "ザルー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ラーザルー",
+            "hybrid_standard": "ラザール"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Raiden",
+        "language": "English",
+        "ipa_original": "/ˈɹeɪ.dən/",
+        "pronunciation_original": "RAY-dən",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɹeɪ",
+                "dən"
+            ],
+            "pron_array_raw": [
+                "RAY",
+                "dən"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "レイー",
+                "ドアン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "レイードアン",
+            "hybrid_standard": "ライデン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Callista",
+        "language": "English",
+        "ipa_original": "/kə.ˈlɪs.tə/",
+        "pronunciation_original": "kə-LIS-tə",
+        "analysis": {
+            "ipa_array_raw": [
+                "kə",
+                "lɪs",
+                "tə"
+            ],
+            "pron_array_raw": [
+                "kə",
+                "LIS",
+                "tə"
+            ],
+            "stress_position": 1,
+            "hybrid_array": [
+                "クア",
+                "リスー",
+                "タ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "クアリスータ",
+            "hybrid_standard": "カリスタ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Paula",
+        "language": "English",
+        "ipa_original": "/ˈpɔl.ə/",
+        "pronunciation_original": "PAWL-ə",
+        "analysis": {
+            "ipa_array_raw": [
+                "pɔl",
+                "ə"
+            ],
+            "pron_array_raw": [
+                "PAWL",
+                "ə"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ポルー",
+                "ア"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ポルーア",
+            "hybrid_standard": "パウラ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Brie",
+        "language": "English",
+        "ipa_original": "/ˈbɹi/",
+        "pronunciation_original": "BREE",
+        "analysis": {
+            "ipa_array_raw": [
+                "bɹi"
+            ],
+            "pron_array_raw": [
+                "BREE"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ブリー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ブリー",
+            "hybrid_standard": "ブリ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Eustace",
+        "language": "English",
+        "ipa_original": "/ˈjuː.ˌstɪs/",
+        "pronunciation_original": "YOO-stis",
+        "analysis": {
+            "ipa_array_raw": [
+                "juː",
+                "stɪs"
+            ],
+            "pron_array_raw": [
+                "YOO",
+                "stis"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ユー",
+                "スティス"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ユースティス",
+            "hybrid_standard": "ユースタース"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Racquel",
+        "language": "English",
+        "ipa_original": "/ɹə.ˈkɛl/",
+        "pronunciation_original": "rə-KEHL",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɹə",
+                "kɛl"
+            ],
+            "pron_array_raw": [
+                "rə",
+                "KEHL"
+            ],
+            "stress_position": 1,
+            "hybrid_array": [
+                "ラ",
+                "ケルー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ラケルー",
+            "hybrid_standard": "ラクエル"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Gwenevere",
+        "language": "British English",
+        "ipa_original": "/ˈɡwɪn.ə.ˌvɪə/",
+        "pronunciation_original": "GWIN-ə-veey",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɡwɪn",
+                "ə",
+                "vɪə"
+            ],
+            "pron_array_raw": [
+                "GWIN",
+                "ə",
+                "veey"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "グウィン",
+                "ア",
+                "ヴイエ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "グウィンアヴイエ",
+            "hybrid_standard": "グウェネヴェア"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Kayleah",
+        "language": "English",
+        "ipa_original": "/ˈkeɪ.li/",
+        "pronunciation_original": "KAY-lee",
+        "analysis": {
+            "ipa_array_raw": [
+                "keɪ",
+                "li"
+            ],
+            "pron_array_raw": [
+                "KAY",
+                "lee"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ケイー",
+                "リ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ケイーリ",
+            "hybrid_standard": "カイルア"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Clement",
+        "language": "English",
+        "ipa_original": "/ˈklɛm.ənt/",
+        "pronunciation_original": "KLEHM-ənt",
+        "analysis": {
+            "ipa_array_raw": [
+                "klɛm",
+                "ənt"
+            ],
+            "pron_array_raw": [
+                "KLEHM",
+                "ənt"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "クレムー",
+                "アント"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "クレムーアント",
+            "hybrid_standard": "クレメント"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Topher",
+        "language": "British English",
+        "ipa_original": "/ˈtəʊ.fə/",
+        "pronunciation_original": "TO-fə",
+        "analysis": {
+            "ipa_array_raw": [
+                "təʊ",
+                "fə"
+            ],
+            "pron_array_raw": [
+                "TO",
+                "fə"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "タウー",
+                "フア"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "タウーフア",
+            "hybrid_standard": "トファ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Zara",
+        "language": "English",
+        "ipa_original": "/ˈzɑːɹ.ə/",
+        "pronunciation_original": "ZAHR-ə",
+        "analysis": {
+            "ipa_array_raw": [
+                "zɑːɹ",
+                "ə"
+            ],
+            "pron_array_raw": [
+                "ZAHR",
+                "ə"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ザールー",
+                "ア"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ザールーア",
+            "hybrid_standard": "ザラ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Corrina",
+        "language": "English",
+        "ipa_original": "/kə.ˈɹin.ə/",
+        "pronunciation_original": "kə-REEN-ə",
+        "analysis": {
+            "ipa_array_raw": [
+                "kə",
+                "ɹin",
+                "ə"
+            ],
+            "pron_array_raw": [
+                "kə",
+                "REEN",
+                "ə"
+            ],
+            "stress_position": 1,
+            "hybrid_array": [
+                "クア",
+                "リン",
+                "ア"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "クアリンア",
+            "hybrid_standard": "コーリナ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Martie",
+        "language": "English",
+        "ipa_original": "/ˈmɑɹ.ti/",
+        "pronunciation_original": "MAHR-tee",
+        "analysis": {
+            "ipa_array_raw": [
+                "mɑɹ",
+                "ti"
+            ],
+            "pron_array_raw": [
+                "MAHR",
+                "tee"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "マルー",
+                "ティ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "マルーティ",
+            "hybrid_standard": "マルティ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Gale",
+        "language": "English",
+        "ipa_original": "/ˈɡeɪl/",
+        "pronunciation_original": "GAYL",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɡeɪl"
+            ],
+            "pron_array_raw": [
+                "GAYL"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "グエイルー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "グエイルー",
+            "hybrid_standard": "ガレ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Violet",
+        "language": "English",
+        "ipa_original": "/ˈvaɪ.lɪt/",
+        "pronunciation_original": "VIE-lit",
+        "analysis": {
+            "ipa_array_raw": [
+                "vaɪ",
+                "lɪt"
+            ],
+            "pron_array_raw": [
+                "VIE",
+                "lit"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ヴアイー",
+                "リト"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ヴアイーリト",
+            "hybrid_standard": "ビオレット"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Gillian",
+        "language": "English",
+        "ipa_original": "/ˈɡɪl.i.ən/",
+        "pronunciation_original": "JIL-ee-ən",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɡɪl",
+                "i",
+                "ən"
+            ],
+            "pron_array_raw": [
+                "JIL",
+                "ee",
+                "ən"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "グイルー",
+                "イ",
+                "アン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "グイルーイアン",
+            "hybrid_standard": "ギリアン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Haley",
+        "language": "English",
+        "ipa_original": "/ˈheɪ.li/",
+        "pronunciation_original": "HAY-lee",
+        "analysis": {
+            "ipa_array_raw": [
+                "heɪ",
+                "li"
+            ],
+            "pron_array_raw": [
+                "HAY",
+                "lee"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ハエイー",
+                "リ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ハエイーリ",
+            "hybrid_standard": "ハレイ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Georgine",
+        "language": "English",
+        "ipa_original": "/ʒɔʁ.ʒin/",
+        "pronunciation_original": "ZHAWR-ZHEEN",
+        "analysis": {
+            "ipa_array_raw": [
+                "ʒɔʁ",
+                "ʒin"
+            ],
+            "pron_array_raw": [
+                "ZHAWR",
+                "ZHEEN"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ジオー",
+                "ジイン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ジオージイン",
+            "hybrid_standard": "ジョルジン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Geoffroy",
+        "language": "French",
+        "ipa_original": "/ʒɔ.fʁwa/",
+        "pronunciation_original": "ZHAW-FRWAH",
+        "analysis": {
+            "ipa_array_raw": [
+                "ʒɔ",
+                "fʁwa"
+            ],
+            "pron_array_raw": [
+                "ZHAW",
+                "FRWAH"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ジオー",
+                "フルウアー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ジオーフルウアー",
+            "hybrid_standard": "ヂョフロワ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Cass",
+        "language": "English",
+        "ipa_original": "/ˈkæs/",
+        "pronunciation_original": "KAS",
+        "analysis": {
+            "ipa_array_raw": [
+                "kæs"
+            ],
+            "pron_array_raw": [
+                "KAS"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "カスー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "カスー",
+            "hybrid_standard": "カッス"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Pierce",
+        "language": "American English",
+        "ipa_original": "/ˈpɪɹs/",
+        "pronunciation_original": "PIRS",
+        "analysis": {
+            "ipa_array_raw": [
+                "pɪɹs"
+            ],
+            "pron_array_raw": [
+                "PIRS"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ピルスー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ピルスー",
+            "hybrid_standard": "ピアス"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Elena",
+        "language": "English",
+        "ipa_original": "/ə.ˈleɪ.nə/",
+        "pronunciation_original": "ə-LAY-nə",
+        "analysis": {
+            "ipa_array_raw": [
+                "ə",
+                "leɪ",
+                "nə"
+            ],
+            "pron_array_raw": [
+                "ə",
+                "LAY",
+                "nə"
+            ],
+            "stress_position": 1,
+            "hybrid_array": [
+                "ア",
+                "レイー",
+                "ンア"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "アレイーンア",
+            "hybrid_standard": "エレナ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Xzavier",
+        "language": "British English",
+        "ipa_original": "/ˈzeɪ.vjə/",
+        "pronunciation_original": "ZAY-vyə",
+        "analysis": {
+            "ipa_array_raw": [
+                "zeɪ",
+                "vjə"
+            ],
+            "pron_array_raw": [
+                "ZAY",
+                "vyə"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ゼイー",
+                "ヴヤア"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ゼイーヴヤア",
+            "hybrid_standard": "ザイバー"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Ripley",
+        "language": "English",
+        "ipa_original": "/ˈɹɪp.li/",
+        "pronunciation_original": "RIP-lee",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɹɪp",
+                "li"
+            ],
+            "pron_array_raw": [
+                "RIP",
+                "lee"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "リプー",
+                "リ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "リプーリ",
+            "hybrid_standard": "リプリー"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Débora",
+        "language": "French",
+        "ipa_original": "/dɛ.bɔ.ʁa/",
+        "pronunciation_original": "DEH-BAW-RAH",
+        "analysis": {
+            "ipa_array_raw": [
+                "dɛ",
+                "bɔ",
+                "ʁa"
+            ],
+            "pron_array_raw": [
+                "DEH",
+                "BAW",
+                "RAH"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "デー",
+                "ボー",
+                "ルアー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "デーボールアー",
+            "hybrid_standard": "デボラ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Georgiana",
+        "language": "American English",
+        "ipa_original": "/d͡ʒɔɹ.d͡ʒi.ˈæn.ə/",
+        "pronunciation_original": "jawr-jee-AN-ə",
+        "analysis": {
+            "ipa_array_raw": [
+                "d͡ʒɔɹ",
+                "d͡ʒi",
+                "æn",
+                "ə"
+            ],
+            "pron_array_raw": [
+                "jawr",
+                "jee",
+                "AN",
+                "ə"
+            ],
+            "stress_position": 2,
+            "hybrid_array": [
+                "ジョル",
+                "ジ",
+                "アン",
+                "ア"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ジョルジアンア",
+            "hybrid_standard": "ジョルジャーナ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Clark",
+        "language": "American English",
+        "ipa_original": "/ˈklɑɹk/",
+        "pronunciation_original": "KLAHRK",
+        "analysis": {
+            "ipa_array_raw": [
+                "klɑɹk"
+            ],
+            "pron_array_raw": [
+                "KLAHRK"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "クラルクー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "クラルクー",
+            "hybrid_standard": "クラルク"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Shepherd",
+        "language": "American English",
+        "ipa_original": "/ˈʃɛp.əɹd/",
+        "pronunciation_original": "SHEHP-ərd",
+        "analysis": {
+            "ipa_array_raw": [
+                "ʃɛp",
+                "əɹd"
+            ],
+            "pron_array_raw": [
+                "SHEHP",
+                "ərd"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "シェプー",
+                "ード"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "シェプーード",
+            "hybrid_standard": "シーベルダ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Maynard",
+        "language": "American English",
+        "ipa_original": "/ˈmeɪ.nəɹd/",
+        "pronunciation_original": "MAY-nərd",
+        "analysis": {
+            "ipa_array_raw": [
+                "meɪ",
+                "nəɹd"
+            ],
+            "pron_array_raw": [
+                "MAY",
+                "nərd"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "メイー",
+                "ンード"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "メイーンード",
+            "hybrid_standard": "マイナード"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Byrne",
+        "language": "British English",
+        "ipa_original": "/ˈbɜːn/",
+        "pronunciation_original": "BUN",
+        "analysis": {
+            "ipa_array_raw": [
+                "bɜːn"
+            ],
+            "pron_array_raw": [
+                "BUN"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ブーン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ブーン",
+            "hybrid_standard": "ビルン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Se10verine",
+        "language": "French",
+        "ipa_original": "/se.vʁin/",
+        "pronunciation_original": "SEH-VREEN",
+        "analysis": {
+            "ipa_array_raw": [
+                "se",
+                "vʁin"
+            ],
+            "pron_array_raw": [
+                "SEH",
+                "VREEN"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "セー",
+                "ヴルイン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "セーヴルイン",
+            "hybrid_standard": "セトゥルーヴィーヌ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Korbin",
+        "language": "American English",
+        "ipa_original": "/ˈkɔɹ.bɪn/",
+        "pronunciation_original": "KAWR-bin",
+        "analysis": {
+            "ipa_array_raw": [
+                "kɔɹ",
+                "bɪn"
+            ],
+            "pron_array_raw": [
+                "KAWR",
+                "bin"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "コルー",
+                "ビン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "コルービン",
+            "hybrid_standard": "コルビン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Janet",
+        "language": "English",
+        "ipa_original": "/ˈd͡ʒæn.ɪt/",
+        "pronunciation_original": "JAN-it",
+        "analysis": {
+            "ipa_array_raw": [
+                "d͡ʒæn",
+                "ɪt"
+            ],
+            "pron_array_raw": [
+                "JAN",
+                "it"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ジャン",
+                "イト"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ジャンイト",
+            "hybrid_standard": "ジャネット"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Wes",
+        "language": "English",
+        "ipa_original": "/ˈwɛs/",
+        "pronunciation_original": "WEHS",
+        "analysis": {
+            "ipa_array_raw": [
+                "wɛs"
+            ],
+            "pron_array_raw": [
+                "WEHS"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ウェスー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ウェスー",
+            "hybrid_standard": "ウェス"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Denny",
+        "language": "English",
+        "ipa_original": "/ˈdɛn.i/",
+        "pronunciation_original": "DEHN-ee",
+        "analysis": {
+            "ipa_array_raw": [
+                "dɛn",
+                "i"
+            ],
+            "pron_array_raw": [
+                "DEHN",
+                "ee"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "デン",
+                "イ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "デンイ",
+            "hybrid_standard": "デニー"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Rexana",
+        "language": "English",
+        "ipa_original": "/ɹɛk.ˈsæn.ə/",
+        "pronunciation_original": "rehk-SAN-ə",
+        "analysis": {
+            "ipa_array_raw": [
+                "ɹɛk",
+                "sæn",
+                "ə"
+            ],
+            "pron_array_raw": [
+                "rehk",
+                "SAN",
+                "ə"
+            ],
+            "stress_position": 1,
+            "hybrid_array": [
+                "レク",
+                "サン",
+                "ア"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "レクサンア",
+            "hybrid_standard": "レクサナ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Chuck",
+        "language": "English",
+        "ipa_original": "/ˈt͡ʃʌk/",
+        "pronunciation_original": "CHUK",
+        "analysis": {
+            "ipa_array_raw": [
+                "t͡ʃʌk"
+            ],
+            "pron_array_raw": [
+                "CHUK"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "チャクー"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "チャクー",
+            "hybrid_standard": "チュック"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Walter",
+        "language": "British English",
+        "ipa_original": "/ˈwɔːl.tə/",
+        "pronunciation_original": "WAWL-tə",
+        "analysis": {
+            "ipa_array_raw": [
+                "wɔːl",
+                "tə"
+            ],
+            "pron_array_raw": [
+                "WAWL",
+                "tə"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ウォールー",
+                "タ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ウォールータ",
+            "hybrid_standard": "ワルター"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Darleen",
+        "language": "British English",
+        "ipa_original": "/ˈdɑː.liːn/",
+        "pronunciation_original": "DAH-leen",
+        "analysis": {
+            "ipa_array_raw": [
+                "dɑː",
+                "liːn"
+            ],
+            "pron_array_raw": [
+                "DAH",
+                "leen"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ダー",
+                "リーン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ダーリーン",
+            "hybrid_standard": "ダレーン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Leila",
+        "language": "English",
+        "ipa_original": "/ˈlaɪ.lə/",
+        "pronunciation_original": "LIE-lə",
+        "analysis": {
+            "ipa_array_raw": [
+                "laɪ",
+                "lə"
+            ],
+            "pron_array_raw": [
+                "LIE",
+                "lə"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ライー",
+                "ルア"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ライールア",
+            "hybrid_standard": "レイラ"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Keane",
+        "language": "English",
+        "ipa_original": "/ˈkin/",
+        "pronunciation_original": "KEEN",
+        "analysis": {
+            "ipa_array_raw": [
+                "kin"
+            ],
+            "pron_array_raw": [
+                "KEEN"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "キン"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "キン",
+            "hybrid_standard": "ケーン"
+        },
+        "is_polished": true
+    },
+    {
+        "name": "Boaz",
+        "language": "English",
+        "ipa_original": "/ˈboʊ.æz/",
+        "pronunciation_original": "BO-az",
+        "analysis": {
+            "ipa_array_raw": [
+                "boʊ",
+                "æz"
+            ],
+            "pron_array_raw": [
+                "BO",
+                "az"
+            ],
+            "stress_position": 0,
+            "hybrid_array": [
+                "ボウー",
+                "アズ"
+            ]
+        },
+        "outputs": {
+            "raw_literal": "ボウーアズ",
+            "hybrid_standard": "ボアズ"
+        },
+        "is_polished": true
+    }
+]

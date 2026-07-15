@@ -1,0 +1,100 @@
+# katakana_rules.py
+# Phonetic Katakana rules for English/French names
+
+KATAKANA_RULES = {
+
+    # V sounds
+    "vi": "ヴィ",
+    "vɪ": "ヴィ",
+    "ve": "ヴェ",
+    "vo": "ヴォ",
+    "va": "ヴァ",
+    "vu": "ヴ",
+    "v": "ヴ",
+
+    # F sounds
+    "fa": "ファ",
+    "fi": "フィ",
+    "fe": "フェ",
+    "fo": "フォ",
+
+    # T/D sounds
+    "ti": "ティ",
+    "di": "ディ",
+    "tu": "トゥ",
+    "du": "ドゥ",
+
+    # W sounds
+    "wi": "ウィ",
+    "we": "ウェ",
+    "wo": "ウォ",
+
+    # French-style combinations
+    "tje": "ティェ",
+    "tjɛ": "ティェ",
+    "dje": "ディェ",
+    "djɛ": "ディェ",
+    "vje": "ヴィエ",
+    "vjɛ": "ヴィェ",
+
+    # Affricates
+    "tʃ": "チ",
+    "dʒ": "ジ",
+
+    # Fricatives
+    "ʃ": "シ",
+    "ʃe": "シェ",
+    "ʒ": "ジ",
+    "ʒe": "ジェ",
+
+    # French nasal vowels
+    "ɑ̃": "アン",
+    "ɛ̃": "アン",
+    "ɔ̃": "オン",
+    "œ̃": "アン",
+
+    # French vowels
+    "y": "ュ",
+    "ø": "ウ",
+    "œ": "ウ",
+    "ʁ": "ル",
+
+    # Common vowels
+    "ee": "イー",
+    "eh": "エ",
+    "ay": "エイ",
+    "ie": "アイ",
+    "ah": "ア",
+    "aw": "オ",
+    "oo": "ウー",
+    "uh": "ア",
+    "ə": "ア",
+
+    # Common consonants
+    "b": "ブ",
+    "d": "ド",
+    "f": "フ",
+    "g": "グ",
+    "h": "ハ",
+    "k": "ク",
+    "l": "ル",
+    "m": "ム",
+    "n": "ン",
+    "p": "プ",
+    "r": "ル",
+    "s": "ス",
+    "t": "ト",
+    "w": "ウ",
+    "y": "イ",
+    "z": "ズ",
+
+    # Useful endings
+    "tər": "ター",
+    "dər": "ダー",
+    "ər": "アー",
+    "lər": "ラー",
+    "lə": "ラ",
+    "triks": "トリクス",
+    "treeks": "トリークス",
+}
+
