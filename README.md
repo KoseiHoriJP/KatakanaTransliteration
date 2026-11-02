@@ -145,9 +145,3 @@ The presentation does not document the train/validation/test split, so the repor
 - Evaluate on a documented held-out test set and publish reproducible metric definitions.
 - Explore a user interface for entering pronunciation information and reviewing generated Katakana.
 
-## Author
-
-**Kosei Hori (堀 晃成)**  
-College of Information Science and Engineering, Ritsumeikan University
-
-Project documentation based on the June 17, 2026 presentation, *Katakana Transliteration of Foreign Names*.
