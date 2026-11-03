@@ -1,5 +1,7 @@
 # Katakana Transliteration of Foreign Names
 
+**English** | [日本語](README.ja.md)
+
 A pronunciation-based system that converts English and French first names into Japanese Katakana. The project combines rule-based conversion, large language model (LLM) refinement, and a dual-encoder sequence-to-sequence (Seq2Seq) model with attention.
 
 **Combined English and French results:** 92.75% reported human accuracy, 0.49 average edit distance, and 90.43% average string similarity.
